@@ -6,7 +6,7 @@ This project contains a shader and a script to dynamically distort a scene's arr
 ![alt tag](https://github.com/mariusrubo/Unity-Vertex-Displacements/blob/master/lens_effect.jpg)
 
 # Applications
-One application is the distortion of virtual bodies in virtual body illusion using virtual reality. Here, visuo-tactile congruency during touch is disrupted when the body's mesh is distorted, but preserved when a similar distortion is applied using vertex displacement. 
+One application is the distortion of virtual bodies in virtual body illusions using virtual reality. Here, visuo-tactile congruency during touch is disrupted when the body's mesh is distorted, but preserved when a similar distortion is applied using vertex displacement. 
 
 # Further Reading
 The technique is described in more detail in my article [to be announced]. Please cite the article when using this repo for your academic work.  
