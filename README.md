@@ -10,4 +10,8 @@ This project contains a shader and a script to dynamically distort a scene's arr
 One application is the distortion of virtual bodies in virtual body illusions using virtual reality. Here, visuo-tactile congruency during touch is disrupted when the body's mesh is distorted, but preserved when a similar distortion is applied using vertex displacement. 
 
 # Further Reading
-The technique is described in more detail in my article [to be announced]. Please cite the article when using this repo for your academic work.  
+The technique is described in more detail in my article: 
+
+Marius Rubo & Matthias Gamer, **Using Vertex Displacements to Distort Virtual Bodies and Objects While Preserving Visuo-tactile Congruency during Touch**, In *Proceedings of the 25th IEEE Virtual Reality (VR) conference,* 2018.
+
+Please cite this article when using this repository for your academic work.  
