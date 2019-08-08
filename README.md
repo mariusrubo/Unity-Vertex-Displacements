@@ -12,8 +12,8 @@ One application is the distortion of virtual bodies in virtual body illusions us
 ![alt tag](https://github.com/mariusrubo/Unity-Vertex-Displacements/blob/master/BodyIllusionVR.gif)
 
 # Further Reading
-The technique is described in more detail in my article: 
+The technique is described in more detail in this article: 
+Rubo, M., & Gamer, M. (2018). Using Vertex Displacements to Distort Virtual Bodies and Objects While Preserving Visuo-Tactile Congruency During Touch. In *2018 IEEE Conference on Virtual Reality and 3D User Interfaces (Vr)* (pp. 673-674). IEEE.
 
-Marius Rubo & Matthias Gamer, **Using Vertex Displacements to Distort Virtual Bodies and Objects While Preserving Visuo-tactile Congruency during Touch**, In *Proceedings of the 25th IEEE Virtual Reality (VR) conference,* 2018.
-
-Please cite this article when using this repository for your academic work.  
+It was futhermore used in this study: 
+Rubo, M., & Gamer, M. (2019). Visuo-tactile congruency influences the body schema during full body ownership illusion. *Consciousness and cognition, 73,* 102758.
